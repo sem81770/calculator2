@@ -1,0 +1,9 @@
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\bin\Debug\calculator.exe.config
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\bin\Debug\calculator.exe
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\bin\Debug\calculator.pdb
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\bin\Debug\System.Console.dll
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\obj\Debug\calculator.csproj.CopyComplete
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\obj\Debug\calculator.exe
+C:\Users\sem45\OneDrive\Desktop\full stack development\calculator\obj\Debug\calculator.pdb
